@@ -1,0 +1,11 @@
+*.jar
+*.class
+target/
+*.iml
+.idea
+.gitmodules
+.git
+/*.zip
+*.log
+ArcFace64.dat
+task-parent/
